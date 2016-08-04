@@ -1,0 +1,5 @@
+[main]
+service_list = DNS Client, DHCP Client
+mailserver = 10.xx.xx.xx
+sent = xxx@xxx.com
+contacts = xxx@xxx.com,xxx@xxx.com,xxx@xxx.com
